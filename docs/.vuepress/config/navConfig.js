@@ -8,7 +8,18 @@ const navs = [
       { text: '算法', link: '/fontend/calculation/' }
     ]
   },
-  // { text: '小程序', link: '/wechat/' },
+  { 
+    text: 'TypeScript',
+    items: [
+      { text: 'TypeScript', link: '/TypeScript/'}
+    ]
+  },
+  { 
+    text: '框架',
+    items: [
+      { text: 'React', link: '/react/'}
+    ]
+  },
   // { text: '面试', link: '/interview/' },
   // { text: '关于', link: '/about/' },
 ]

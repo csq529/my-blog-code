@@ -4,7 +4,6 @@ const plugins = [
   'vuepress-plugin-table-of-contents', // 为你的 VuePress 站点增加目录组件,支持在md和vue中写<TOC />,生成目录树
   'reading-progress', // 阅读进度插件
   'vuepress-plugin-smooth-scroll', // 你的 VuePress 站点中使用平滑滚动
-  'vuepress-plugin-cat', // 编程猫
   [
     '@vuepress/active-header-links',
     {

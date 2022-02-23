@@ -1,7 +1,7 @@
 const navs = require('./config/navConfig')
 const plugins = require('./config/plugin')
 module.exports = {
-  title: '变强不变秃的小强',
+  title: '变强的小强',
   description: '专注前端技术栈分享',
   plugins: plugins,
   themeConfig: {

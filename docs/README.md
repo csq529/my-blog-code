@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /hero.png
-heroText: 变强不变秃的小强
+heroText: 变强的小强
 tagline: 学以近德，工以养技
 actionText: 开始阅读 →
 actionLink: /zh/guide/
